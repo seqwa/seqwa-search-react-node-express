@@ -1,5 +1,11 @@
 # Seqwa Search API Implementation
 
+## About Seqwa
+
+Seqwa is a low-cost, easy-to-use, hosted search platform for solving your critical search requirements. It supports three uniquely beneficial functions: Autocomplete (query suggestions and top Full-text Search results), Search (Full-text Search with Semantic Ranking for intent), and Recommend (Intent-driven Semantic Search). Work with one or all the functions based on your needs. Set up a functional search utility in minutes: upload your data, generate API keys, publish a demo user interface, and search. Enjoy a seamless search experience supported by a highly available and scalable cloud infrastructure.
+
+To learn more, please visit: https://www.seqwa.com/
+
 ## Tech Stack
 
 - [ReactJS](https://reactjs.org/)
